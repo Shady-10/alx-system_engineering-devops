@@ -1,0 +1,2 @@
+#!/bin/baash
+grep "root" -A 3 /etc/passwd
